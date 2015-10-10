@@ -1,0 +1,6 @@
+D:\Visual Studio Homework\0.0Test\ForeachLoop\bin\Debug\ForeachLoop.exe.config
+D:\Visual Studio Homework\0.0Test\ForeachLoop\bin\Debug\ForeachLoop.exe
+D:\Visual Studio Homework\0.0Test\ForeachLoop\bin\Debug\ForeachLoop.pdb
+D:\Visual Studio Homework\0.0Test\ForeachLoop\obj\Debug\ForeachLoop.csprojResolveAssemblyReference.cache
+D:\Visual Studio Homework\0.0Test\ForeachLoop\obj\Debug\ForeachLoop.exe
+D:\Visual Studio Homework\0.0Test\ForeachLoop\obj\Debug\ForeachLoop.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio Homework\0.0Test\ClassesDemo\bin\Debug\ClassesDemo.exe.config
+D:\Visual Studio Homework\0.0Test\ClassesDemo\bin\Debug\ClassesDemo.exe
+D:\Visual Studio Homework\0.0Test\ClassesDemo\bin\Debug\ClassesDemo.pdb
+D:\Visual Studio Homework\0.0Test\ClassesDemo\obj\Debug\ClassesDemo.exe
+D:\Visual Studio Homework\0.0Test\ClassesDemo\obj\Debug\ClassesDemo.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio Homework\0.0Test\NestedLoops\bin\Debug\NestedLoops.exe.config
+D:\Visual Studio Homework\0.0Test\NestedLoops\bin\Debug\NestedLoops.exe
+D:\Visual Studio Homework\0.0Test\NestedLoops\bin\Debug\NestedLoops.pdb
+D:\Visual Studio Homework\0.0Test\NestedLoops\obj\Debug\NestedLoops.exe
+D:\Visual Studio Homework\0.0Test\NestedLoops\obj\Debug\NestedLoops.pdb

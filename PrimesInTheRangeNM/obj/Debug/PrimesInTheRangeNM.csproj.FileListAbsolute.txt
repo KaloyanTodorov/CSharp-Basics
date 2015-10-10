@@ -1,0 +1,6 @@
+D:\Visual Studio Homework\0.0Test\PrimesInTheRangeNM\bin\Debug\PrimesInTheRangeNM.exe.config
+D:\Visual Studio Homework\0.0Test\PrimesInTheRangeNM\bin\Debug\PrimesInTheRangeNM.exe
+D:\Visual Studio Homework\0.0Test\PrimesInTheRangeNM\bin\Debug\PrimesInTheRangeNM.pdb
+D:\Visual Studio Homework\0.0Test\PrimesInTheRangeNM\obj\Debug\PrimesInTheRangeNM.exe
+D:\Visual Studio Homework\0.0Test\PrimesInTheRangeNM\obj\Debug\PrimesInTheRangeNM.pdb
+D:\Visual Studio Homework\0.0Test\PrimesInTheRangeNM\obj\Debug\PrimesInTheRangeNM.csprojResolveAssemblyReference.cache

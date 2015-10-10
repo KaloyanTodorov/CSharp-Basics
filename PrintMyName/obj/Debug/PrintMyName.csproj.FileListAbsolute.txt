@@ -1,0 +1,12 @@
+D:\Visual Studio Homework\Test\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Visual Studio Homework\Test\PrintMyName\bin\Debug\PrintMyName.exe
+D:\Visual Studio Homework\Test\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\Visual Studio Homework\Test\PrintMyName\obj\Debug\PrintMyName.exe
+D:\Visual Studio Homework\Test\PrintMyName\obj\Debug\PrintMyName.pdb
+D:\Visual Studio Homework\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Visual Studio Homework\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+D:\Visual Studio Homework\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb
+D:\Visual Studio Homework\Test\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
+D:\Visual Studio Homework\0.0Test\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Visual Studio Homework\0.0Test\PrintMyName\obj\Debug\PrintMyName.exe
+D:\Visual Studio Homework\0.0Test\PrintMyName\obj\Debug\PrintMyName.pdb

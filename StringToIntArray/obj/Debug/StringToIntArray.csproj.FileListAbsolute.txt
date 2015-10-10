@@ -1,0 +1,6 @@
+D:\Visual Studio Homework\0.0Test\StringToIntArray\bin\Debug\StringToIntArray.exe.config
+D:\Visual Studio Homework\0.0Test\StringToIntArray\obj\Debug\StringToIntArray.csprojResolveAssemblyReference.cache
+D:\Visual Studio Homework\0.0Test\StringToIntArray\bin\Debug\StringToIntArray.exe
+D:\Visual Studio Homework\0.0Test\StringToIntArray\bin\Debug\StringToIntArray.pdb
+D:\Visual Studio Homework\0.0Test\StringToIntArray\obj\Debug\StringToIntArray.exe
+D:\Visual Studio Homework\0.0Test\StringToIntArray\obj\Debug\StringToIntArray.pdb

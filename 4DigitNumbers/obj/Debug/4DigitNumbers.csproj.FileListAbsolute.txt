@@ -1,0 +1,9 @@
+D:\Visual Studio Homework\0.0Test\4DigitNumbers\bin\Debug\4DigitNumbers.exe.config
+D:\Visual Studio Homework\0.0Test\4DigitNumbers\bin\Debug\4DigitNumbers.exe
+D:\Visual Studio Homework\0.0Test\4DigitNumbers\bin\Debug\4DigitNumbers.pdb
+D:\Visual Studio Homework\0.0Test\4DigitNumbers\obj\Debug\4DigitNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio Homework\0.0Test\4DigitNumbers\obj\Debug\4DigitNumbers.exe
+D:\Visual Studio Homework\0.0Test\4DigitNumbers\obj\Debug\4DigitNumbers.pdb
+D:\SoftUni\00.Programming-Basics-With-CSharp\Files\0.0Test\4DigitNumbers\bin\Debug\4DigitNumbers.exe.config
+D:\SoftUni\00.Programming-Basics-With-CSharp\Files\0.0Test\4DigitNumbers\obj\Debug\4DigitNumbers.exe
+D:\SoftUni\00.Programming-Basics-With-CSharp\Files\0.0Test\4DigitNumbers\obj\Debug\4DigitNumbers.pdb
